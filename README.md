@@ -1,1 +1,1 @@
-# flask-restx-example
+# flask-restx-project-structure
